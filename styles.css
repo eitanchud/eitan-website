@@ -181,6 +181,11 @@ a:hover {
   animation: rise 0.85s var(--ease) 0.16s forwards;
 }
 
+.hero__wave {
+  font-size: 0.72em;
+  letter-spacing: 0;
+}
+
 .hero__headline {
   margin: 0.85rem 0 0;
   max-width: 28ch;
